@@ -1,0 +1,1 @@
+NewCrawler is a web crawler that browses the World Wide Web in a methodical, automated manner or in an orderly fashion.
